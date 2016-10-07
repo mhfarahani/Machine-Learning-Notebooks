@@ -1,6 +1,6 @@
 # Machine-Learning-Notebooks
 
-A series of machine learning exercises
+This repository includes a series of machine learning exercises.
 
 ## Don't Get Kicked!:
 
@@ -10,16 +10,27 @@ https://www.kaggle.com/c/DontGetKicked
 A list of python packages used in this project is:
 
 • Python (3.5)
+
 •	Numpy
+
 •	Pandas
+
 •	sklearn
+
 •	matplotlib
+
 •	seaborn
+
 •	scipy
+
 •	Jupyter Notebook
+
 •	imblearn
+
 •	geopy
+
 •	Basemap
+
 •	math
 
 An AdaboostClassifier with 500 best features trained in this notebook landed in ranke 163 in the private leaderboard.
@@ -31,8 +42,13 @@ A wholesale distributor recently tested a change to their delivery method for so
 This project uses the following software and Python libraries:
 
 • Python 2.7
+
 • NumPy
+
 • pandas
+
 • scikit-learn (v0.17)
+
 • matplotlib
+
 • Scipy
