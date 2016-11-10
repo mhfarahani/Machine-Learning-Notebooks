@@ -33,7 +33,7 @@ A list of python packages used in this project is:
 
 •	math
 
-Randomforest, extrarandomizedtree and adaboost classifers were used in this notebook. An AdaboostClassifier with 500 best features trained in this notebook landed in ranke 163 in the private leaderboard.
+Randomforest, extrarandomizedtree and adaboost classifers were used in this notebook. An AdaboostClassifier with 500 best features trained in this notebook landed in ranke 163 in the Kaggle's private leaderboard.
 
 ## Creating Customer Segments:
 
