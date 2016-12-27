@@ -4,7 +4,7 @@ This repository includes a series of machine learning exercises.
 
 ## Don't Get Kicked!:
 
-Don’t Get Kicked! was a Kaggle competition in 2011. The challenge in this problem is to identify if a used vehicle purchased in auction is a “kick” or not. A kicked vehicle is defined as a car with serious problems that needs a lot of investment to fix the problem before selling it to costumers. Auto dealerships frequently attend auctions to purchase used cars. There is a chance that the purchased car would have serious unseen mechanical or electrical problem that prevent it from being sold to costumers. These problems may be very costly and result in market losses. A link to the competition page is:
+Don’t Get Kicked! was a Kaggle competition in 2011. The challenge in this competition was to identify if a used vehicle purchased in auction is a “kick” or not. A kicked vehicle is defined as a car with serious problems that needs a lot of investment to fix the problem before selling it to costumers. Auto dealerships frequently attend auctions to purchase used cars. There is a chance that the purchased car would have serious unseen mechanical or electrical problem that prevent it from being sold to costumers. These problems may be very costly and result in market losses. A link to the competition page is:
 https://www.kaggle.com/c/DontGetKicked 
 
 A list of python packages used in this project is:
